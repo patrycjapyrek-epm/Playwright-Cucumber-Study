@@ -1,0 +1,27 @@
+{
+  "name": "playwright-cucumber-study",
+  "version": "1.0.0",
+  "description": "Studying Playwright and Cucumber for Test Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrycjapyrek-epm/Playwright-Cucumber-Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrycjapyrek-epm/Playwright-Cucumber-Study/issues"
+  },
+  "homepage": "https://github.com/patrycjapyrek-epm/Playwright-Cucumber-Study#readme",
+  "dependencies": {
+    "@cucumber/cucumber": "^10.3.1",
+    "chai": "^5.0.3",
+    "cucumber-html-reporter": "^7.1.1",
+    "playwright": "^1.41.1",
+    "prettier": "^3.2.4"
+  }
+}
